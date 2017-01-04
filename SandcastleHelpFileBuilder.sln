@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paraesthesia.SandcastleHelpFileBuilder.Plugin", "Paraesthesia.SandcastleHelpFileBuilder.Plugin\Paraesthesia.SandcastleHelpFileBuilder.Plugin.csproj", "{20BC1406-F29B-4830-AAD7-6E5E39358916}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paraesthesia.SandcastleHelpFileBuilder.Plugin.Test", "Paraesthesia.SandcastleHelpFileBuilder.Plugin.Test\Paraesthesia.SandcastleHelpFileBuilder.Plugin.Test.csproj", "{B5D7B05A-4C18-4FFC-94EE-B3CCCBBB747C}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20BC1406-F29B-4830-AAD7-6E5E39358916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20BC1406-F29B-4830-AAD7-6E5E39358916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20BC1406-F29B-4830-AAD7-6E5E39358916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20BC1406-F29B-4830-AAD7-6E5E39358916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5D7B05A-4C18-4FFC-94EE-B3CCCBBB747C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D7B05A-4C18-4FFC-94EE-B3CCCBBB747C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D7B05A-4C18-4FFC-94EE-B3CCCBBB747C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D7B05A-4C18-4FFC-94EE-B3CCCBBB747C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
